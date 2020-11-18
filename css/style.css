@@ -1,0 +1,25 @@
+body{
+	background-color: #E6E6FA;
+}
+
+.fundo,.titulo{
+	width: 90%;
+	background-color: #00CED1;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 50px;
+
+}
+.titulo{
+	text-align: center;
+	font-family: Aileron;
+	font-size: 70px;
+}
+.textoIndex{
+	text-align: center;
+	font-size: 30px;
+	font-family: helvetica;
+}
+.login{
+	text-align: center;
+}
